@@ -3,7 +3,7 @@
 Implements Spur.us Api for Coldbox Coldfusion.
 See https://spur.us/app/context/docs
 
-The supur offers structured information on IP addresses and helps to indentify Vpn Endpoints, Geo Fraud, Residential Proxies, Device Behaviors
+Spur api offers structured information on IP addresses and helps to indentify Vpn Endpoints, Geo Fraud, Residential Proxies, Device Behaviors
 
 ## Installation
 
