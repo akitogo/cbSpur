@@ -5,6 +5,10 @@ See https://spur.us/app/context/docs
 
 Spur api offers structured information on IP addresses and helps to indentify Vpn Endpoints, Geo Fraud, Residential Proxies, Device Behaviors
 
+Example: 
+![image](https://user-images.githubusercontent.com/2843376/122043056-31aec000-cddb-11eb-8fb5-ebff9513626c.png)
+
+
 ## Installation
 
 You will need a Spur.us Account to work with this API
